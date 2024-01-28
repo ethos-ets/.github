@@ -29,6 +29,5 @@ We are currently focusing on the following tech tools:
 - CSS
 - Golang
 
-To get started, please click the link next to the role you are interested in and fill the form. We will get back to you as soon as possible:
-
-There are no open positions at the moment, Please check again in a week to view open positions.
+To get started, please visit our [website](https://www.ethos-cm.com/about-us) and apply to a role you are interested in.
+Hoping to hear from you soon 🙂
